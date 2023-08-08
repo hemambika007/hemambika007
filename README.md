@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @hemambika007
-- 👀 I’m interested in android developement.
-- 🌱 I’m currently learning working of android studio.
+- 👀 I’m interested in Full stack web developement.
 - 📫 How to reach me - mail id - hemambikabanda071@gmail.com
 
 <!---
